@@ -16,7 +16,7 @@ _SMS bombardımanı yapmanın en güçlü yolu_
 
 ### Linux & MacOS
 ```bash
-git clone https://github.com/Heizen/heizen.git
+git clone https://github.com/ramonamo/GRKM-Turkey.git
 cd GRKM-Turkey
 pip3 install -r requirements.txt
 python3 heizen.py
@@ -24,7 +24,7 @@ python3 heizen.py
 
 ### Windows
 ```bash
-git clone https://github.com/Heizen/heizen.git
+git clone https://github.com/ramonamo/GRKM-Turkey.git 
 cd GRKM-Turkey
 pip install -r requirements.txt
 python heizen.py
@@ -34,7 +34,7 @@ python heizen.py
 ```bash
 pkg update && pkg upgrade
 pkg install python git
-git clone https://github.com/Heizen/heizen.git
+git clone https://github.com/ramonamo/GRKM-Turkey.git 
 cd GRKM-Turkey
 pip install -r requirements.txt
 python heizen.py
