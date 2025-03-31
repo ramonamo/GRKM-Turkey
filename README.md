@@ -1,44 +1,88 @@
-# Enough
-_It's enough to make a man go crazy_
-<br><br>
-[![Hits](https://hits.sh/github.com/tingirifistik/Enough-Reborn.svg?label=views&color=007ec6)](https://hits.sh/github.com/tingirifistik/Enough-Reborn/)
+# HEIZEN SMS BOMBARDIMAN
 
-<img src=https://github.com/tingirifistik/Enough-Reborn/assets/51286195/fc10a910-b4a4-4ff2-8058-62767b9af30f height="200px" width="400px"/>
-<img src=https://user-images.githubusercontent.com/51286195/209442235-7069b8e7-b3f3-4b70-82cb-a86014836be0.png height="200px" width="400px"/>
+_SMS bombardımanı yapmanın en güçlü yolu_
 
+![Banner](https://i.ibb.co/5sC8P5H/sms-bomber.jpg)
 
-<h2>Kurulum</h2>
+## Özellikler
 
-```console
-git clone https://github.com/tingirifistik/Enough-Reborn.git
-cd Enough-Reborn
+- ✅ Ultra Turbo SMS Gönderimi - saniyede onlarca SMS
+- ✅ Çoklu Numara Desteği - birden fazla numaraya aynı anda saldırı
+- ✅ Kişiselleştirilebilir Turbo Güç - cihazınızın gücüne göre ayarlayın
+- ✅ Termux Uyumlu - Android telefonlarınızda kolayca çalıştırın
+- ✅ 50+ SMS Servisi - Türkiye'nin en kapsamlı SMS koleksiyonu
+
+## Kurulum
+
+### Linux & MacOS
+```bash
+git clone https://github.com/Heizen/sms-bombardiman.git
+cd sms-bombardiman
 pip3 install -r requirements.txt
 python3 enough.py
 ```
 
+### Windows
+```bash
+git clone https://github.com/Heizen/sms-bombardiman.git
+cd sms-bombardiman
+pip install -r requirements.txt
+python enough.py
+```
 
-<h2>Discord Bot</h2>
+### Termux
+```bash
+pkg update && pkg upgrade
+pkg install python git
+git clone https://github.com/Heizen/sms-bombardiman.git
+cd sms-bombardiman
+pip install -r requirements.txt
+python enough.py
+```
 
-Bot'un çalışabilmesi için 'Privileged Gateway Intents' seçeneklerinin hepsinin aktif olması gerekmektedir.
+## Kullanım
 
-<h2>Discord Selfbot</h2>
+Program 4 temel modda çalışır:
 
-**Token bulma:**
+### 1. Normal SMS Gönderimi
+- Tek veya çoklu numaraya kontrollü SMS gönderimi
+- SMS aralığını ve sayısını kendiniz belirleyin
 
-1- Tarayıcıdan bot olarak kullanacağınız Discord hesabına giriniz.<br>
-2- Tarayıcı konsolunu açınız.<br>
-3- Ağ trafiği izleme bölümüne geliniz.<br>
-4- Konsolu kapatmadan, Discord'da bu oturum boyunca tıklamadığınız bir sohbete tıklayınız.<br>
-5- Sonu *messages?limit=50* ile biten isteğe tıklayınız.<br>
-6- İsteğin *Header* kısmındaki *Authorization* değeri sizin token'ınızdır.<br>
-7- Bu token'ı *discord-selfbot-enough.py*'de *token* kısmına yazınız. (str olarak)<br>
+### 2. Tek Numara - Ultra Turbo Modu
+- Tek bir numaraya maksimum hızda SMS bombardımanı
+- Turbo Güç ayarı ile cihazınızın kapasitesine göre optimizasyon
+- Binlerce SMS'i dakikalar içinde gönderir
 
-**Chat Id Bulma:**
+### 3. Çoklu Numara - Turbo Modu
+- Birden fazla numaraya aynı anda SMS bombardımanı
+- Her numara için ayrı thread yönetimi
+- Yüksek performanslı çoklu hedef saldırısı
 
-1- Bot hesabı ile mesajlaşacağınız kendi orijinal hesabınızdan bot'a bir tane mesaj atınız.<br>
-2- Tarayıcıda Discord'u açın ve bot hesabına giriş yapınız, ardından gerçek hesabınızın üzerine tıklayın.<br>
-3- Url'deki *@me*'den sonraki sayı sizin sohbet id'nizdir.<br>
-4- Bu id'yi *discord-selfbot-enough.py*'de *chat_id* kısmına yazınız. (int olarak)<br><br>
-**Not:** Eğer bot'u Discord sunucusunda kullanacaksanız, *channels*'dan sonra gelen, taksim ile ayrılmış iki sayıdan ikincisi sohbet id'nizdir.
-<br><br>
-<a href="https://www.buymeacoffee.com/tingirifistik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+### 4. Çıkış
+- Programdan güvenli çıkış
+
+## Önlemler
+
+- Bu program yalnızca eğitim amaçlıdır
+- Kendi numaranızda test edin veya izin alarak kullanın
+- Kötüye kullanımdan doğacak sonuçlardan kullanıcı sorumludur
+
+## Teknik Detaylar
+
+- Multi-threading teknolojisi ile paralel SMS gönderimi
+- Akıllı hata yönetimi ve retry mekanizması
+- Dinamik servis yükü dengelemesi
+- Termux optimizasyonu ile mobil cihazlarda yüksek performans
+- Düşük kaynak kullanımı ile uzun süreli çalışma
+
+## İletişim
+
+Sorularınız, önerileriniz veya hata raporlarınız için:
+- Discord: Heizen#1337
+- GitHub Issues: [New Issue](https://github.com/Heizen/sms-bombardiman/issues)
+
+---
+
+<p align="center">
+  <i>Güçlü yetenekler, büyük sorumluluklar getirir</i>
+</p>
