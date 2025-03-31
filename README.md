@@ -79,7 +79,7 @@ Program 4 temel modda çalışır:
 
 Sorularınız, önerileriniz veya hata raporlarınız için:
 - Discord: Heizen#0008
-- GitHub Issues: [New Issue](https://github.com/Heizen/heizen/issues)
+- GitHub Issues: [New Issue](ttps://github.com/ramonamo/GRKM-Turkey/issues)
 
 ---
 
