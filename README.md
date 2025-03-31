@@ -16,28 +16,28 @@ _SMS bombardımanı yapmanın en güçlü yolu_
 
 ### Linux & MacOS
 ```bash
-git clone https://github.com/Heizen/sms-bombardiman.git
-cd sms-bombardiman
+git clone https://github.com/Heizen/heizen.git
+cd heizen
 pip3 install -r requirements.txt
-python3 enough.py
+python3 heizen.py
 ```
 
 ### Windows
 ```bash
-git clone https://github.com/Heizen/sms-bombardiman.git
-cd sms-bombardiman
+git clone https://github.com/Heizen/heizen.git
+cd heizen
 pip install -r requirements.txt
-python enough.py
+python heizen.py
 ```
 
 ### Termux
 ```bash
 pkg update && pkg upgrade
 pkg install python git
-git clone https://github.com/Heizen/sms-bombardiman.git
-cd sms-bombardiman
+git clone https://github.com/Heizen/heizen.git
+cd heizen
 pip install -r requirements.txt
-python enough.py
+python heizen.py
 ```
 
 ## Kullanım
@@ -79,7 +79,7 @@ Program 4 temel modda çalışır:
 
 Sorularınız, önerileriniz veya hata raporlarınız için:
 - Discord: Heizen#1337
-- GitHub Issues: [New Issue](https://github.com/Heizen/sms-bombardiman/issues)
+- GitHub Issues: [New Issue](https://github.com/Heizen/heizen/issues)
 
 ---
 
