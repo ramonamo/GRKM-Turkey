@@ -1,88 +1,22 @@
-# HEIZEN SMS BOMBARDIMAN
+MIT Lisansı
 
-_SMS bombardımanı yapmanın en güçlü yolu_
+Copyright (c) 2025 Heizen At
 
-![Banner](https://i.ibb.co/5sC8P5H/sms-bomber.jpg)
+İşbu belge ile, bu yazılımın ("Yazılım") kopyasını edinen herkese, aşağıda belirtilen şartlar dahilinde, ücretsiz olarak kullanım hakkı tanınır:
 
-## Özellikler
+İzin verilir:
+- Yazılımı kopyalamak,
+- Yazılımı kullanmak,
+- Yazılımı değiştirmek,
+- Yazılımı birleştirmek,
+- Yazılımı yayımlamak,
+- Yazılımı dağıtmak,
+- Yazılımın alt lisanslarını vermek,
+- Yazılımın kopyalarını satmak.
 
-- ✅ Ultra Turbo SMS Gönderimi - saniyede onlarca SMS
-- ✅ Çoklu Numara Desteği - birden fazla numaraya aynı anda saldırı
-- ✅ Kişiselleştirilebilir Turbo Güç - cihazınızın gücüne göre ayarlayın
-- ✅ Termux Uyumlu - Android telefonlarınızda kolayca çalıştırın
-- ✅ 50+ SMS Servisi - Türkiye'nin en kapsamlı SMS koleksiyonu
+Ayrıca, yazılımı edinen kişilere, yukarıdaki hakları diledikleri şekilde kullanma izni verilir.
 
-## Kurulum
+Şartlar:
+Yukarıdaki telif hakkı bildirimi ve işbu izin bildirimi, yazılımın tüm kopyalarında veya yazılımın önemli bölümlerinde yer almalıdır.
 
-### Linux & MacOS
-```bash
-git clone https://github.com/Heizen/sms-bombardiman.git
-cd sms-bombardiman
-pip3 install -r requirements.txt
-python3 enough.py
-```
-
-### Windows
-```bash
-git clone https://github.com/Heizen/sms-bombardiman.git
-cd sms-bombardiman
-pip install -r requirements.txt
-python enough.py
-```
-
-### Termux
-```bash
-pkg update && pkg upgrade
-pkg install python git
-git clone https://github.com/Heizen/sms-bombardiman.git
-cd sms-bombardiman
-pip install -r requirements.txt
-python enough.py
-```
-
-## Kullanım
-
-Program 4 temel modda çalışır:
-
-### 1. Normal SMS Gönderimi
-- Tek veya çoklu numaraya kontrollü SMS gönderimi
-- SMS aralığını ve sayısını kendiniz belirleyin
-
-### 2. Tek Numara - Ultra Turbo Modu
-- Tek bir numaraya maksimum hızda SMS bombardımanı
-- Turbo Güç ayarı ile cihazınızın kapasitesine göre optimizasyon
-- Binlerce SMS'i dakikalar içinde gönderir
-
-### 3. Çoklu Numara - Turbo Modu
-- Birden fazla numaraya aynı anda SMS bombardımanı
-- Her numara için ayrı thread yönetimi
-- Yüksek performanslı çoklu hedef saldırısı
-
-### 4. Çıkış
-- Programdan güvenli çıkış
-
-## Önlemler
-
-- Bu program yalnızca eğitim amaçlıdır
-- Kendi numaranızda test edin veya izin alarak kullanın
-- Kötüye kullanımdan doğacak sonuçlardan kullanıcı sorumludur
-
-## Teknik Detaylar
-
-- Multi-threading teknolojisi ile paralel SMS gönderimi
-- Akıllı hata yönetimi ve retry mekanizması
-- Dinamik servis yükü dengelemesi
-- Termux optimizasyonu ile mobil cihazlarda yüksek performans
-- Düşük kaynak kullanımı ile uzun süreli çalışma
-
-## İletişim
-
-Sorularınız, önerileriniz veya hata raporlarınız için:
-- Discord: Heizen#1337
-- GitHub Issues: [New Issue](https://github.com/Heizen/sms-bombardiman/issues)
-
----
-
-<p align="center">
-  <i>Güçlü yetenekler, büyük sorumluluklar getirir</i>
-</p>
+YAZILIM, "OLDUĞU GİBİ" SAĞLANMAKTADIR; AÇIK VEYA ZIMNİ HERHANGİ BİR GARANTİ, TİCARİ ELVERİŞLİLİK, BELİRLİ BİR AMACA UYGUNLUK VE İHLAL EDİLMEME GARANTİSİ DAHİL OLMAK ÜZERE, HERHANGİ BİR GARANTİ VERİLMEKTEDİR. YAZARLAR VE TELİF HAKKI SAHİPLERİ, YAZILIMIN KULLANIMI VEYA YAZILIMLA İLGİLİ İŞLEMLERDEN KAYNAKLANAN HERHANGİ BİR İDDİA, ZARAR VEYA DİĞER YÜKÜMLÜLÜKLERDEN, SÖZLEŞME, HAKSIZ FİİL VEYA BAŞKA NEDENLERDEN DOĞUŞAN HERHANGİ BİR SORUMLULUKTAN, HATTA BÖYLE BİR İHTİMAL VARSA BİLE, SORUMLU TUTULAMAZLAR.
