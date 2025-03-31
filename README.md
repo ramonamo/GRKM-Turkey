@@ -78,7 +78,7 @@ Program 4 temel modda çalışır:
 ## İletişim
 
 Sorularınız, önerileriniz veya hata raporlarınız için:
-- Discord: Heizen#1337
+- Discord: Heizen#0008
 - GitHub Issues: [New Issue](https://github.com/Heizen/heizen/issues)
 
 ---
