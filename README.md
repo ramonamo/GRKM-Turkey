@@ -2,7 +2,7 @@
 
 _SMS bombardımanı yapmanın en güçlü yolu_
 
-![Banner](https://i.ibb.co/5sC8P5H/sms-bomber.jpg)
+![Banner](https://cdn.discordapp.com/attachments/954861479050502275/1356147546485166140/sms.jpeg?ex=67eb8253&is=67ea30d3&hm=d25a9ea5e025623a37c74d1c11e80140a7e932af2cc92f310277f0b3112fec39&)
 
 ## Özellikler
 
